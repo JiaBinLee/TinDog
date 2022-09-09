@@ -1,9 +1,6 @@
 # TinDog
 
-🐶💕🐕
-A dating website for pooches.
+### Description
+🐶💕🐕<br />
+[TinDog](https://jiabinlee.github.io/TinDog/ "TinDog") is a dating website for pooches (frontend web development).
 
----
-
-This is a frontend project learned on 'The Complete 2022 Web Development Bootcamp' course.
-Included HTML, CSS, and the use of BootstrapV5.2
